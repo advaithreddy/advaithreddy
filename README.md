@@ -1,4 +1,4 @@
-[![MasterHead]()](https://github.com/advaithreddy)
+[![MasterHead](https://github.com/advaithreddy/advaithreddy/blob/main/Advaithreddy%20(1).png?raw=true)](https://github.com/advaithreddy)
 <h1 align="center">Hey 😏, I'm Advaith aka CloneMe</h1>
 <h3 align="center">A passionate Backend & Indie Game Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
