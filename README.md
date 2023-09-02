@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/advaithreddy/advaithreddy/blob/main/Advaithreddy%20(1).png?raw=true)](https://github.com/advaithreddy)
-<h1 align="center">Hey 😏, I'm Advaith aka CloneMe</h1>
+<h1 align="center">Hey there😏, I'm Advaith aka CloneMe</h1>
 <h3 align="center">A passionate Backend & Indie Game Developer</h3>
 <img align="left" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advaithreddy" alt="advaithreddy" /></a> </p>
 
-- I am currently focused on backend developement and I also love being an Indie game developer
-- Currently I am working on [PrepCloud](https://github.com/advaithreddy/Drive) as a team of 2 with [Sumanth](https://github.com/GaviniSumanth) my co-developer, so it is a cloud storage service.
-- My Favorite languages are C++ , JavaScript, C# and Rust and I dont want to forget about NodeJs, .NET and Qt obvisouly.
-- I am Open source developer and always look forward to collaborate for any open source project feel free to contact me ...
-- You can Check out my portfolio here [My Potrfolio](https://advaithreddy.github.io/My_portfolio/)
-- Or mail me **advaithbaddam5@gmail.com**
+- I am currently dedicated to backend development and have a passion for Indie game development.
+- Presently, I am engaged in a collaborative effort on [PrepCloud](https://github.com/advaithreddy/Drive) as part of a dynamic team of two, alongside my esteemed co-developer, [Sumanth](https://github.com/GaviniSumanth). PrepCloud is an innovative cloud storage service.
+- My preferred programming languages encompass a diverse range, including C++, JavaScript, C#, Rust, Node.js, .NET, and Qt.
+- As a dedicated open-source developer, I eagerly seek opportunities for collaboration on various open-source projects. Please do not hesitate to reach out to me for potential collaborations.
+- You can explore my comprehensive portfolio at [My Potrfolio](https://advaithreddy.github.io/My_portfolio/).
+- For any inquiries or communication, please feel free to contact me via email at **advaithbaddam5@gmail.com**.
 
 <h3 align="left">You can Connect with me via..</h3>
 <p align="left">
