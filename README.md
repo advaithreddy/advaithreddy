@@ -11,7 +11,7 @@
 - Currently I am working on [PrepCloud](https://github.com/advaithreddy/Drive) as a team of 2 with [Sumanth](https://github.com/GaviniSumanth) my co-developer, so it is a cloud storage service.
 - My Favorite languages are C++ , JavaScript, C# and Rust and I dont want to forget about NodeJs, .NET and Qt obvisouly.
 - I am Open source developer and always look forward to collaborate for any open source project feel free to contact me ...
-- You can Check out my portfolio here [https://advaithreddy.github.io/My_portfolio/](https://advaithreddy.github.io/My_portfolio/)
+- You can Check out my portfolio here [My Potrfolio](https://advaithreddy.github.io/My_portfolio/)
 - Or mail me **advaithbaddam5@gmail.com**
 
 <h3 align="left">You can Connect with me via..</h3>
