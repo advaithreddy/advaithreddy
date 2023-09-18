@@ -1,18 +1,20 @@
 [![MasterHead](https://github.com/advaithreddy/advaithreddy/blob/main/Advaithreddy%20(1).png?raw=true)](https://github.com/advaithreddy)
 <h1 align="center">Hey there😏, I'm Advaith aka CloneMe</h1>
-<h3 align="center">A passionate Backend & Indie Game Developer</h3>
-<img align="left" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h3 align="center">A passionate Backend & Game Developer</h3>
+<h4 align="center">アドヴァイス</h4>
+<img align="left" alt="Coding" width="400" src="https://github.com/advaithreddy/advaithreddy/blob/main/my_github.gif">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Profile%20views&color=0e75b6&style=flat" alt="advaithreddy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advaithreddy" alt="advaithreddy" /></a> </p>
 
-- I am currently dedicated to backend development and have a passion for Indie game development.
-- Presently, I am engaged in a collaborative effort on [PrepCloud](https://github.com/advaithreddy/Drive) as part of a dynamic team of two, alongside my esteemed co-developer, [Sumanth](https://github.com/GaviniSumanth). PrepCloud is an innovative cloud storage service.
-- My preferred programming languages encompass a diverse range, including C++, JavaScript, C#, Rust, Node.js, .NET, and Qt.
+- I am currently dedicated to backend development and have a passion for being game developer(the backend part).
+- Presently, I am engaged in a collaborative effort on [PrepCloud](https://github.com/advaithreddy/Drive) as part of a dynamic team of two, alongside my esteemed co-developer, [Sumanth](https://github.com/GaviniSumanth). PrepCloud is an innovative cloud storage service. Which resembels the Google Drive, One Drive,Drop box etc.
+- My preferred programming languages encompass a diverse range, including C++, C#(.NET), JavaScript(NodeJS), Rust and Python. <- I know some other too But these are in my present usage directory and my most loved ones.
 - As a dedicated open-source developer, I eagerly seek opportunities for collaboration on various open-source projects. Please do not hesitate to reach out to me for potential collaborations.
 - You can explore my comprehensive portfolio at [My Potrfolio](https://advaithreddy.github.io/My_portfolio/).
 - For any inquiries or communication, please feel free to contact me via email at **advaithbaddam5@gmail.com**.
+- My Favourite language and culture after my **INDIAN** culture and languages is *Japanese*. Simply love them <3
 
 <h3 align="left">You can Connect with me via..</h3>
 <p align="left">
