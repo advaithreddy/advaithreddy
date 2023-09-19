@@ -1,16 +1,23 @@
-[![MasterHead](https://github.com/advaithreddy/advaithreddy/blob/main/Advaithreddy%20(1).png?raw=true)](https://github.com/advaithreddy)
-<h1 align="center">Hey there😏, I'm Advaith aka CloneMe</h1>
-<h3 align="center">A passionate Backend & Game Developer</h3>
+<img align="right" alt="Coding" width="400" height="200" src="https://github.com/advaithreddy/advaithreddy/blob/main/my_github.gif">
+<h1 align="left">Hey there 😏, I'm Advaith</h1>
+<h4 align="left">A passionate Backend & Game Developer</h4>
 <h4 align="center">アドヴァイス</h4>
-<img align="left" alt="Coding" width="400" src="https://github.com/advaithreddy/advaithreddy/blob/main/my_github.gif">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Profile%20views&color=0e75b6&style=flat" alt="advaithreddy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Profile%20views&color=0e75b6&style=flat" alt="advaithreddy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advaithreddy" alt="advaithreddy" /></a> </p>
+
 
 - I am currently dedicated to backend development and have a passion for being game developer(the backend part).
 - Presently, I am engaged in a collaborative effort on [PrepCloud](https://github.com/advaithreddy/Drive) as part of a dynamic team of two, alongside my esteemed co-developer, [Sumanth](https://github.com/GaviniSumanth). PrepCloud is an innovative cloud storage service. Which resembels the Google Drive, One Drive,Drop box etc.
-- My preferred programming languages encompass a diverse range, including C++, C#(.NET), JavaScript(NodeJS), Rust and Python. <- I know some other too But these are in my present usage directory and my most loved ones.
+- My preferred programming languages and frameworks encompass a diverse range, including </br>
+![Cpp](https://img.shields.io/badge/C++-%3007ACC.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp-%23563D7C.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23121011.svg?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<- I know some other too But these are in my present usage directory and my most loved ones.
 - As a dedicated open-source developer, I eagerly seek opportunities for collaboration on various open-source projects. Please do not hesitate to reach out to me for potential collaborations.
 - You can explore my comprehensive portfolio at [My Potrfolio](https://advaithreddy.github.io/My_portfolio/).
 - For any inquiries or communication, please feel free to contact me via email at **advaithbaddam5@gmail.com**.
@@ -38,3 +45,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaithreddy&show_icons=true&locale=en" alt="advaithreddy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaithreddy&" alt="advaithreddy" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=advaithreddy" alt="advaithreddy" /></a> </p>
+
+## Stats
+
+![Raul J.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithreddy&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=advaithreddy&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithreddy&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
