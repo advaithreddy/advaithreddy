@@ -1,57 +1,72 @@
 <img align="right" alt="Coding" width="400" height="200" src="https://github.com/advaithreddy/advaithreddy/blob/main/my_github.gif">
-<h1 align="left">Hey there 😏, I'm Advaith</h1>
-<h4 align="left">A passionate Backend & Game Developer</h4>
-<h4 align="center">アドヴァイス</h4>
+<h1 align="left">Hey there 👋, I'm Advaith</h1>
+<h4 align="left">A passionate Backend & Aspiring game Developer</h4>
+<h4 align="center">アドヴァイス</h4><p align="center"> <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Profile%20views&color=0e75b6&style=flat" alt="advaithreddy" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Profile%20views&color=0e75b6&style=flat" alt="advaithreddy" /> </p>
-
-
+<h4>My Current OS </h4>
+<img src="https://img.shields.io/badge/ubuntu-E55604.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
 
 - I am currently dedicated to backend development and have a passion for being game developer(the backend part).
-- Presently, I am engaged in a collaborative effort on [PrepCloud](https://github.com/advaithreddy/Drive) as part of a dynamic team of two, alongside my esteemed co-developer, [Sumanth](https://github.com/GaviniSumanth). PrepCloud is an innovative cloud storage service. Which resembels the Google Drive, One Drive,Drop box etc.
-- My preferred programming languages and frameworks encompass a diverse range, including </br>
+- Presently, I am engaged in a collaborative effort on [PrepCloud](https://github.com/advaithreddy/Drive) as team of two, alongside my esteemed co-developer,
+[スマンス](https://github.com/GaviniSumanth). PrepCloud is an innovative cloud storage service. Which resembels the Google Drive, Drop Box etc.
+
+- My preferred programming languages, frameworks and tools encompass a diverse range, including </br> </br>
+![C](https://img.shields.io/badge/C-%23121011.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-%3007ACC.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/Csharp-%23563D7C.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23121011.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<- I know some other too But these are in my present usage directory and my most loved ones.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23121011.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Qt](https://img.shields.io/badge/qt-%A2FF86.svg?style=for-the-badge&logo=qt&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-8ECDDD.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-068FFF.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-FFC436.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23121011.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Docker](https://img.shields.io/badge/Docker-22668D.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F8DE22.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![json](https://img.shields.io/badge/-json-FFA41B?style=for-the-badge&logo=json)
+![Postman](https://img.shields.io/badge/postman-FD8D14.svg?style=for-the-badge&logo=postman&logoColor=white)
+
 - As a dedicated open-source developer, I eagerly seek opportunities for collaboration on various open-source projects. Please do not hesitate to reach out to me for potential collaborations.
-- You can explore my comprehensive portfolio at [My Potrfolio](https://advaithreddy.github.io/My_portfolio/).
-- For any inquiries or communication, please feel free to contact me via email at **advaithbaddam5@gmail.com**.
+- You can explore my comprehensive portfolio </br> </br>
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>](https://advaithreddy.github.io/My_portfolio/)
+
+- For any inquiries or communication, please feel free to connect with me on </br> </br>
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/advaith05/)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/advaithreddy)
+[<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:advaithbaddam5@gmail.com)
+[<img src="https://img.shields.io/badge/twitter-52B0E7?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/advaith2002)
+[<img src="https://img.shields.io/badge/stackoverflow-ED8B00?style=for-the-badge&logo=stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/22256071/advaith-reddy)
+[<img src="https://img.shields.io/badge/codechef-6C3428?style=for-the-badge&logo=codechef&logoColor=white"/>](https://www.codechef.com/users/lazychef123)
+[<img src="https://img.shields.io/badge/kaggle-5CD2E6?style=for-the-badge&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/advaithreddy)
+[<img src="https://img.shields.io/badge/leetcode-FFC436?style=for-the-badge&logo=leetcode&logoColor=white"/>](https://leetcode.com/cloneme/)
+
 - My Favourite language and culture after my **INDIAN** culture and languages is *Japanese*. Simply love them <3
 
-<h3 align="left">You can Connect with me via..</h3>
-<p align="left">
-  <a href="https://twitter.com/advaith2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="advaith2002" height="30" width="40" style="margin-right: 10px;" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/advaith05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/advaith05/" height="30" width="40" style="margin-right: 10px;" /></a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22256071/advaith-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22256071/advaith-reddy" height="30" width="40" style="margin-right: 10px;" /></a>
-  <a href="https://kaggle.com/https://www.kaggle.com/advaithreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/advaithreddy" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/advaithreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/advaithreddy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/lazychef123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/lazychef123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/cloneme/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/cloneme/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/cloneme/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/cloneme/practice" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools I use:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></p>
-
-<h3 align="left">Stats: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaithreddy&show_icons=true&locale=en&layout=compact" alt="advaithreddy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaithreddy&show_icons=true&locale=en" alt="advaithreddy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaithreddy&" alt="advaithreddy" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=advaithreddy" alt="advaithreddy" /></a> </p>
+## My NPM Packages (Soon...)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](#)
 
 ## Stats
 
-![Raul J.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithreddy&show_icons=true&theme=radical)
-
+![Advaith GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithreddy&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=advaithreddy&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithreddy&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
