@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" height="200" src="https://github.com/advaithreddy/advaithreddy/blob/main/my_github.gif">
 <h1 align="left">Hey there 👋, I'm Advaith</h1>
 <h4 align="left">A passionate Backend & Aspiring game Developer</h4>
-<h4 align="center">アドヴァイス</h4><p align="center"> <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Profile%20views&color=0e75b6&style=flat" alt="advaithreddy" /> </p>
+<h4 align="center">アドヴァイス</h4><p align="center"> <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Visitors&color=0e75b6&style=flat" alt="advaithreddy" /> </p>
 
 <h4>My Current OS </h4>
 <img src="https://img.shields.io/badge/ubuntu-E55604.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
