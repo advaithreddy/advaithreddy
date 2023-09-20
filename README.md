@@ -61,7 +61,7 @@
 [<img src="https://img.shields.io/badge/kaggle-5CD2E6?style=for-the-badge&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/advaithreddy)
 [<img src="https://img.shields.io/badge/leetcode-FFC436?style=for-the-badge&logo=leetcode&logoColor=white"/>](https://leetcode.com/cloneme/)
 
-- My Favourite language and culture after my **INDIAN** culture and languages is *Japanese*. Simply love them <3
+- My Favourite language and culture after my 🇮🇳 **INDIAN** culture and languages is 🇯🇵 *Japanese*. Simply love them <3
 
 ## My NPM Packages (Soon...)
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](#)
@@ -69,6 +69,6 @@
 ## Stats
 
 ![Advaith GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithreddy&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=advaithreddy&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithreddy&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+
