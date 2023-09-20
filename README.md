@@ -51,7 +51,6 @@
 
 - For any inquiries or communication, please feel free to connect with me on </br> </br>
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/advaith05/)
-[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/advaithreddy)
 [<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:advaithbaddam5@gmail.com)
 [<img src="https://img.shields.io/badge/twitter-52B0E7?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/advaith2002)
 [<img src="https://img.shields.io/badge/stackoverflow-ED8B00?style=for-the-badge&logo=stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/22256071/advaith-reddy)
