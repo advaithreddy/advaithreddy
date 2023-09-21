@@ -3,6 +3,7 @@
 <h4 align="left">A passionate Backend & Aspiring game Developer</h4>
 <h4 align="center">アドヴァイス</h4><p align="center"> <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Visitors&color=0e75b6&style=flat" alt="advaithreddy" /> </p>
 
+
 <h4>My Current OS </h4>
 <img src="https://img.shields.io/badge/ubuntu-E55604.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
 
@@ -70,5 +71,7 @@
 
 ![Advaith GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithreddy&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithreddy&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+**[`^        back to top        ^`](#advaithreddy)**
 
 
