@@ -14,7 +14,7 @@
 - My preferred programming languages, frameworks and tools encompass a diverse range, including </br> </br>
 ![C](https://img.shields.io/badge/C-%23121011.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-%3007ACC.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/Csharp-%23563D7C.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23563D7C.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white)
