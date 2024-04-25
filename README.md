@@ -38,7 +38,7 @@
 ![Docker](https://img.shields.io/badge/Docker-22668D.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FD8D14.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-- As a dedicated open-source developer, I eagerly seek opportunities for collaboration on various open-source projects. Please do not hesitate to reach out to me for potential collaborations. [Click here](mailto:advaithbaddam5@gmail.com)
+- As a dedicated open-source developer, I eagerly seek opportunities for collaboration on various open-source projects. Please do not hesitate to reach out to me for potential collaborations. [Text Me!!](mailto:advaithbaddam5@gmail.com)
 - You can explore my comprehensive portfolio </br> </br>
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>](https://advaithreddy.github.io/My_portfolio/)
 
