@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="400" height="200" src="https://github.com/advaithreddy/advaithreddy/blob/main/my_github.gif">
-<h1 align="left"> I'm <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Advaith</h1>
+<h1 align="left"> Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Advaith, Here</h1>
 <h4 align="left">Always Seek, Never Settle!!</h4>
 <h4 align="center">アドヴァイス</h4><p align="center"> <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Visitors&color=0e75b6&style=flat" alt="advaithreddy" /> </p>
 
