@@ -49,7 +49,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=advaithreddy&show_icons=true&theme=dark)
 <a href="https://leetcode.com/cloneme/"><img width="48%" src="https://leetcode.card.workers.dev/cloneme?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 
+---
 
+[![Advaith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=advaithreddy&theme=merko)](https://github.com/advaithreddy)
 
 
 
