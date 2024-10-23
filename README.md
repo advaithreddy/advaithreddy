@@ -31,8 +31,14 @@
 [<img src="https://img.shields.io/badge/leetcode-FFC436?style=for-the-badge&logo=leetcode&logoColor=white"/>](https://leetcode.com/cloneme/)
 
 ## My Robotic Skills with levels
+### Newbie ⭐
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,express,nodejs,redux,supabase,babel,firebase,gitlab,latex,docker,netlify,vercel,heroku,postman,rust,blender,unity" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,typescript,react,vue,nextjs,tailwindcss,express,nodejs,mysql,mongodb,npm,powershell,redux,supabase,vscode,windows,yarn,vite,babel,bash,git,github,bootstrap,c,cpp,java,firebase,gitlab,kali,latex,linux,md,materialui,docker,netlify,vercel,heroku,postman,notion,rust,sublime,blender,unity" />
+### Got some grip ⭐⭐
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,vue,tailwindcss,mysql,mongodb,npm,powershell,yarn,vite,bootstrap,java,kali,materialui" />
+
+### Ha ha well rounded with these one's ⭐⭐⭐
+<img src="https://skillicons.dev/icons?i=cpp,vscode,windows,bash,git,github,c,linux,md,notion" />
 
 ---
 
