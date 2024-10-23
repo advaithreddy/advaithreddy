@@ -50,6 +50,9 @@
 <a href="https://leetcode.com/cloneme/"><img width="48%" src="https://leetcode.card.workers.dev/cloneme?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 
 ---
+![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=advaithreddy&theme=github_dark)
+
+---
 
 [![Advaith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=advaithreddy&theme=merko)](https://github.com/advaithreddy)
 
