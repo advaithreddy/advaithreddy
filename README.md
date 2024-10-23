@@ -1,17 +1,28 @@
-<img align="right" alt="Coding" width="400" height="200" src="https://github.com/advaithreddy/advaithreddy/blob/main/my_github.gif">
 <h1 align="left"> Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Advaith, Here</h1>
-<h4 align="left">Always Seek, Never Settle!!</h4>
-<h4 align="center">アドヴァイス</h4><p align="center"> <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Visitors&color=0e75b6&style=flat" alt="advaithreddy" /> </p>
 
-
-<div style="display: flex; align-items: center;">
+<img align="right" alt="Coding" width="400" height="200" src="https://github.com/advaithreddy/advaithreddy/blob/main/my_github.gif">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Stalker%20Views&color=000000&style=for-the-badge" alt="advaithreddy" />
+  <div style="display: flex; align-items: center;">
     <h4 style="margin-right: 10px;">My Current OS</h4>
     <img src="https://img.shields.io/badge/ubuntu-E55604.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/kali-blue.svg?style=for-the-badge&logo=kalilinux&logoColor=black" />
-</div>
+  </div>
+  <h4 align="left">🚀 Always Seek, Never Settle!!</h4>
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<h4 align="center">アドヴァイス</h4><p align="center">
+
+
+
+
+
+
+
 </br>
 
-<a href="https://leetcode.com/u/cloneme/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=cloneme&theme=onedark&border=border&animated=true" align="left" alt="Advaith's Leetcode badges"/></a> 
+<a href="https://leetcode.com/u/cloneme/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=cloneme&theme=onedark&border=border&animated=true" align="right" alt="Advaith's Leetcode badges"/></a> 
 
 
 - Stare while I hack your account
@@ -24,13 +35,11 @@
 - For any inquiries or communication, please feel free to connect with me on </br> </br>
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/advaith05/)
 [<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:advaithbaddam5@gmail.com)
-[<img src="https://img.shields.io/badge/twitter-52B0E7?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/advaith2002)
+[<img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white"/>](https://x.com/advaith2002)
 [<img src="https://img.shields.io/badge/stackoverflow-ED8B00?style=for-the-badge&logo=stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/22256071/advaith-reddy)
-[<img src="https://img.shields.io/badge/codechef-6C3428?style=for-the-badge&logo=codechef&logoColor=white"/>](https://www.codechef.com/users/lazychef123)
-[<img src="https://img.shields.io/badge/kaggle-5CD2E6?style=for-the-badge&logo=kaggle&logoColor=white"/>](https://www.kaggle.com/advaithreddy)
 [<img src="https://img.shields.io/badge/leetcode-FFC436?style=for-the-badge&logo=leetcode&logoColor=white"/>](https://leetcode.com/cloneme/)
 
-## My Robotic Skills with levels
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> My Robotic Skills with levels 
 ### Newbie ⭐
 <img src="https://skillicons.dev/icons?i=typescript,nextjs,express,nodejs,redux,supabase,babel,firebase,gitlab,latex,docker,netlify,vercel,heroku,postman,rust,blender,unity" />
 
@@ -46,23 +55,38 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=advaithreddy&column=10&theme=matrix)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> </br>
 ## My So Called No Achievements:
+<p align="center">
+   <a>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaithreddy&theme=dark&hide_border=true"/>
+   </a>
+</p>
 
-![Advaith GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithreddy&show_icons=true&theme=radical)
-![working day](https://github-contribution-stats.vercel.app/api/?username=advaithreddy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithreddy&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=advaithreddy&show_icons=true&theme=dark)
-<a href="https://leetcode.com/cloneme/"><img width="48%" src="https://leetcode.card.workers.dev/cloneme?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+<div align="center">
+  <!-- GitHub Profile Summary Cards -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=advaithreddy&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=advaithreddy&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=advaithreddy&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=advaithreddy&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=advaithreddy&theme=github_dark" />
+</div>
 
----
-![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=advaithreddy&theme=github_dark)
+<!-- GitHub Stats and LeetCode Stats aligned in a centered div -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=advaithreddy&show_icons=true&theme=radical" alt="Advaith GitHub stats" />
+  <a href="https://leetcode.com/cloneme/">
+    <img width="48%" src="https://leetcode.card.workers.dev/cloneme?theme=dark&font=baloo&extension=null&border=2&border_radius=8" alt="Advaith's LeetCode stats" />
+  </a>
+</div>
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> </br>
+
 
 [![Advaith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=advaithreddy&theme=merko)](https://github.com/advaithreddy)
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> </br>
 
 
 
