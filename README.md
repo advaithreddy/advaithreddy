@@ -34,11 +34,10 @@
 - My NPM Packages (Soon...) </br> </br>
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](#)
 - For any inquiries or communication, please feel free to connect with me on </br> </br>
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/advaith05/)
-[<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:advaithbaddam5@gmail.com)
-[<img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white"/>](https://x.com/advaith2002)
-[<img src="https://img.shields.io/badge/stackoverflow-ED8B00?style=for-the-badge&logo=stackoverflow&logoColor=white"/>](https://stackoverflow.com/users/22256071/advaith-reddy)
-[<img src="https://img.shields.io/badge/leetcode-FFC436?style=for-the-badge&logo=leetcode&logoColor=white"/>](https://leetcode.com/cloneme/)
+[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/advaith05/)
+[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:advaithbaddam5@gmail.com)
+[<img src="https://skillicons.dev/icons?i=twitter" />](mailto:advaithbaddam5@gmail.com)
+[<img src="https://skillicons.dev/icons?i=stackoverflow" />](mailto:advaithbaddam5@gmail.com)
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> My Robotic Skills with levels 
 ### Seeking : ⭐
