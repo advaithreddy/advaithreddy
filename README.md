@@ -5,8 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=advaithreddy&label=Stalker%20Views&color=000000&style=for-the-badge" alt="advaithreddy" />
   <div style="display: flex; align-items: center;">
     <h4 style="margin-right: 10px;">My Current OS</h4>
-    <img src="https://img.shields.io/badge/ubuntu-E55604.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/kali-blue.svg?style=for-the-badge&logo=kalilinux&logoColor=black" />
+<!--     <img src="https://img.shields.io/badge/ubuntu-E55604.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/kali-blue.svg?style=for-the-badge&logo=kalilinux&logoColor=black" /> -->
+    <img src="https://skillicons.dev/icons?i=ubuntu,kali,windows" />
   </div>
   <h4 align="left">🚀 Always Seek, Never Settle!!</h4>
 </p>
