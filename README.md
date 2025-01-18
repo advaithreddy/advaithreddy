@@ -75,9 +75,9 @@
 <!-- GitHub Stats and LeetCode Stats aligned in a centered div -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=advaithreddy&show_icons=true&theme=radical" alt="Advaith GitHub stats" />
-  <a href="https://leetcode.com/cloneme/">
+<!--   <a href="https://leetcode.com/cloneme/">
     <img width="48%" src="https://leetcode.card.workers.dev/cloneme?theme=dark&font=baloo&extension=null&border=2&border_radius=8" alt="Advaith's LeetCode stats" />
-  </a>
+  </a> -->
 </div>
 
 
