@@ -36,8 +36,8 @@
 - For any inquiries or communication, please feel free to connect with me on </br> </br>
 [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/advaith05/)
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:advaithbaddam5@gmail.com)
-[<img src="https://skillicons.dev/icons?i=twitter" />](mailto:advaithbaddam5@gmail.com)
-[<img src="https://skillicons.dev/icons?i=stackoverflow" />](mailto:advaithbaddam5@gmail.com)
+[<img src="https://skillicons.dev/icons?i=twitter" />](https://x.com/advaith2002)
+[<img src="https://skillicons.dev/icons?i=stackoverflow" />](https://stackoverflow.com/users/22256071/advaith-reddy)
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> My Robotic Skills with levels 
 ### Seeking : ⭐
