@@ -26,11 +26,11 @@
 <a href="https://leetcode.com/u/cloneme/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=cloneme&theme=onedark&border=border&animated=true" align="right" alt="Advaith's Leetcode badges"/></a> 
 
 
-- Stare while I hack your account
-- As a dedicated open-source developer, I eagerly seek opportunities for collaboration on various open-source projects. Please do not hesitate to reach out to me for potential collaborations. [Text Me!!](mailto:advaithbaddam5@gmail.com)
-- You can explore my comprehensive portfolio </br> 
+- A kid with Big dreams
+- As a dedicated open-source dev, I am open for collaboration on any open-source project. Please do not hesitate to reach out. [Text Me!!](mailto:advaithbaddam5@gmail.com)
+- You can explore this (my portfolio LoL!!) </br> 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>](https://advaithreddy.github.io/My_portfolio/)
-- My Favourite language and culture after my 🇮🇳 **INDIAN** culture and languages is 🇯🇵 *Japanese*. Simply love them <3
+- I really want to share this, my Favourite language and culture after 🇮🇳 **INDIAN** culture and languages is 🇯🇵 *Japanese*. Simply love them <3
 - My NPM Packages (Soon...) </br> </br>
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](#)
 - For any inquiries or communication, please feel free to connect with me on </br> </br>
